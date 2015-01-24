@@ -1,0 +1,5 @@
+C:\Users\XCL\Desktop\XCLNetCheckBox\XCLNetCheckBox\bin\Debug\XCLNetCheckBox.dll
+C:\Users\XCL\Desktop\XCLNetCheckBox\XCLNetCheckBox\bin\Debug\XCLNetCheckBox.pdb
+C:\Users\XCL\Desktop\XCLNetCheckBox\XCLNetCheckBox\obj\Debug\XCLNetCheckBox.csprojResolveAssemblyReference.cache
+C:\Users\XCL\Desktop\XCLNetCheckBox\XCLNetCheckBox\obj\Debug\XCLNetCheckBox.dll
+C:\Users\XCL\Desktop\XCLNetCheckBox\XCLNetCheckBox\obj\Debug\XCLNetCheckBox.pdb

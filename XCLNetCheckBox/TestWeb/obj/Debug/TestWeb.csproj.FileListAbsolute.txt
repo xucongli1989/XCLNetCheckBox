@@ -1,0 +1,8 @@
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\bin\TestWeb.dll.config
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\bin\TestWeb.dll
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\bin\TestWeb.pdb
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\obj\Debug\TestWeb.dll
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\obj\Debug\TestWeb.pdb
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\bin\XCLNetCheckBox.dll
+C:\Users\XCL\Desktop\XCLNetCheckBox\TestWeb\bin\XCLNetCheckBox.pdb
